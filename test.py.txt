@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+print("hello wolrd")
+=======
+print("hello wolrd") 
+print ("hello mahi")
+>>>>>>> e3cc248e75f2cacc8f288b74dada208209fbaf73
